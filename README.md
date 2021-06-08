@@ -2,7 +2,7 @@
 - 👀 I’m interested in all things Web
 - 🌱 I’m currently learning React.js, Haskell and Solidity
 - 💞️ I’m looking to collaborate on functional, beautiful projects
-- 📫 How to reach me colab@vntero.com
+- 📫 Feel free to poke me colab@vntero.com
 
 <!---
 vntero/vntero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
