@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vntero
 - 👀 I’m interested in all things Web
-- 🌱 I’m currently learning React.js, Haskell and Solidity
+- 🌱 I’m currently learning Haskell
 - 🌍 I’m looking to collaborate on functional, beautiful projects
 - 📫 Feel free to poke me colab@vntero.com
 
