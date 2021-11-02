@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @vntero
+- 👋 Hi, I’m Hugo
 - 👀 Interested in all things Web
-- 🌱 Currently learning Haskell
+- 🌱 Currently learning Javascript and peaking at Haskell
 - 🌍 Looking to collaborate on functional, beautiful projects
 - 📫 Feel free to poke me colab@vntero.com
 
