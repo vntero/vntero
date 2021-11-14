@@ -3,6 +3,7 @@
 - 💎 Currently learning JavaScript and peaking at Haskell
 - 🌍 Looking to collaborate on functional, beautiful projects
 - 📫 Feel free to poke me colab@vntero.com
+- vntero.com
 
 <!---
 vntero/vntero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
