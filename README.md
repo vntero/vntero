@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Hugo
 - 💡 Interested in all things Web
 - 💎 Currently learning JavaScript and peaking at Haskell
-- 🌍 Looking to collaborate on functional, beautiful projects
-- 📫 Feel free to poke me colab@vntero.com
+- 🌍 Looking to collaborate on beautiful, engaging and functional projects
+- 📫 Feel free to poke me collab@vntero.com
 - https://vntero.com
 
 <!---
