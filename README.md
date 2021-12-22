@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hugo
 - 💡 Interested in all things Web
-- 💎 Currently learning JavaScript and peaking at Haskell
-- 🌍 Looking to collaborate on beautiful, engaging and functional projects
+- 💎 Currently mastering React and peaking at Haskell
+- 🌍 Looking to collaborate on beautiful, engaging and functional projects for the World Wide Web
 - 📫 Feel free to poke me collab@vntero.com
 - https://vntero.com
 
