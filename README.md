@@ -5,7 +5,7 @@
 - 📫 Feel free to poke me collab@vntero.com
 - https://vntero.com
 
-## Expertise
+## Cards up my sleeve
 
 <img align="left" alt="javascript" src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'
 />
