@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hugo
 - 💡 Interested in all things Web
-- 💎 Currently mastering React and peaking at TypeScript
+- 💎 Currently mastering React and peaking at Next.js
 - 🌍 Looking to collaborate on beautiful, engaging and functional projects for the World Wide Web
 - 📫 Feel free to poke me hi@vntero.com
 - https://vntero.com
