@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hugo
 - 💡 Interested in all things Web
-- 💎 Currently mastering TypeScript and playing around with Go and Haskell
+- 💎 Currently mastering TypeScript and playing around with Go
 - 🌍 Looking to collaborate on beautiful, engaging and functional projects for the World Wide Web
 - 📫 Feel free to poke me hi@vntero.com
 - https://vntero.com
