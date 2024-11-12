@@ -3,7 +3,7 @@
 - 💎 Currently mastering TypeScript and playing around with Go
 - 🌍 Looking to collaborate on beautiful, engaging and functional projects for the World Wide Web
 - 📫 Feel free to poke me vntero@icloud.com
-1. - https://vntero.com
+- https://vntero.com
 
 <!---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vntero&layout=compact)
