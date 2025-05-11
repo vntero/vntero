@@ -2,8 +2,8 @@
 - 💡 Interested in all things Web
 - 💎 Currently mastering TypeScript and playing around with Go
 - 🌍 Looking to collaborate on beautiful, engaging and functional projects for the World Wide Web
-- 📫 Feel free to poke me vntero@icloud.com
-- https://vntero.com
+- 📫 Feel free to poke me hugo@antero.dev
+- https://antero.dev
 
 <!---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vntero&layout=compact)
