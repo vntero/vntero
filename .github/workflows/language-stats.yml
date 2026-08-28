@@ -1,0 +1,33 @@
+name: Update language stats
+
+on:
+  schedule:
+    - cron: "0 6 * * 1" # weekly, Monday 06:00 UTC
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Generate language stats SVG
+        env:
+          GH_TOKEN: ${{ secrets.STATS_PAT }}
+          GH_USERNAME: vntero
+        run: node scripts/generate-language-stats.mjs
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/languages.svg
+          git diff --staged --quiet || git commit -m "Update language stats"
+          git push

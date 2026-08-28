@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="358" viewBox="0 0 420 358" font-family="'Segoe UI', Ubuntu, Sans-Serif">
+  <style>
+    .title { fill: #58a6ff; font-size: 16px; font-weight: 600; }
+    .label { fill: #c9d1d9; font-size: 13px; }
+    .pct { fill: #8b949e; font-size: 12px; }
+    .track { fill: #21262d; }
+    svg { background-color: #0d1117; }
+  </style>
+  <rect width="420" height="358" rx="8" fill="#0d1117" />
+  <text x="20" y="28" class="title">Most Used Languages</text>
+  
+    <text x="20" y="65" class="label">HTML</text>
+    <rect x="150" y="54" width="210" height="10" rx="5" class="track" />
+    <rect x="150" y="54" width="59.35852942851941" height="10" rx="5" fill="#e34c26">
+      <animate attributeName="width" from="0" to="59.35852942851941" dur="0.8s" fill="freeze" />
+    </rect>
+    <text x="370" y="65" class="pct">28.3%</text>
+
+    <text x="20" y="97" class="label">Svelte</text>
+    <rect x="150" y="86" width="210" height="10" rx="5" class="track" />
+    <rect x="150" y="86" width="49.67002170292571" height="10" rx="5" fill="#ff3e00">
+      <animate attributeName="width" from="0" to="49.67002170292571" dur="0.8s" fill="freeze" />
+    </rect>
+    <text x="370" y="97" class="pct">23.7%</text>
+
+    <text x="20" y="129" class="label">JavaScript</text>
+    <rect x="150" y="118" width="210" height="10" rx="5" class="track" />
+    <rect x="150" y="118" width="37.030441061980106" height="10" rx="5" fill="#f1e05a">
+      <animate attributeName="width" from="0" to="37.030441061980106" dur="0.8s" fill="freeze" />
+    </rect>
+    <text x="370" y="129" class="pct">17.6%</text>
+
+    <text x="20" y="161" class="label">Swift</text>
+    <rect x="150" y="150" width="210" height="10" rx="5" class="track" />
+    <rect x="150" y="150" width="26.277708090622838" height="10" rx="5" fill="#F05138">
+      <animate attributeName="width" from="0" to="26.277708090622838" dur="0.8s" fill="freeze" />
+    </rect>
+    <text x="370" y="161" class="pct">12.5%</text>
+
+    <text x="20" y="193" class="label">Rust</text>
+    <rect x="150" y="182" width="210" height="10" rx="5" class="track" />
+    <rect x="150" y="182" width="25.994352547999434" height="10" rx="5" fill="#dea584">
+      <animate attributeName="width" from="0" to="25.994352547999434" dur="0.8s" fill="freeze" />
+    </rect>
+    <text x="370" y="193" class="pct">12.4%</text>
+
+    <text x="20" y="225" class="label">CSS</text>
+    <rect x="150" y="214" width="210" height="10" rx="5" class="track" />
+    <rect x="150" y="214" width="3.5499195215750317" height="10" rx="5" fill="#563d7c">
+      <animate attributeName="width" from="0" to="3.5499195215750317" dur="0.8s" fill="freeze" />
+    </rect>
+    <text x="370" y="225" class="pct">1.7%</text>
+
+    <text x="20" y="257" class="label">Go</text>
+    <rect x="150" y="246" width="210" height="10" rx="5" class="track" />
+    <rect x="150" y="246" width="3.44694511494285" height="10" rx="5" fill="#00ADD8">
+      <animate attributeName="width" from="0" to="3.44694511494285" dur="0.8s" fill="freeze" />
+    </rect>
+    <text x="370" y="257" class="pct">1.6%</text>
+
+    <text x="20" y="289" class="label">TypeScript</text>
+    <rect x="150" y="278" width="210" height="10" rx="5" class="track" />
+    <rect x="150" y="278" width="2.230252068926615" height="10" rx="5" fill="#3178c6">
+      <animate attributeName="width" from="0" to="2.230252068926615" dur="0.8s" fill="freeze" />
+    </rect>
+    <text x="370" y="289" class="pct">1.1%</text>
+
+    <text x="20" y="321" class="label">Other</text>
+    <rect x="150" y="310" width="210" height="10" rx="5" class="track" />
+    <rect x="150" y="310" width="2.4418304625080003" height="10" rx="5" fill="#8b949e">
+      <animate attributeName="width" from="0" to="2.4418304625080003" dur="0.8s" fill="freeze" />
+    </rect>
+    <text x="370" y="321" class="pct">1.2%</text>
+</svg>
