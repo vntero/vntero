@@ -11,59 +11,59 @@
   
     <text x="20" y="65" class="label">Svelte</text>
     <rect x="150" y="54" width="210" height="10" rx="5" class="track" />
-    <rect x="150" y="54" width="64.59966745372759" height="10" rx="5" fill="#ff3e00">
-      <animate attributeName="width" from="0" to="64.59966745372759" dur="0.8s" fill="freeze" />
+    <rect x="150" y="54" width="59.10424796314663" height="10" rx="5" fill="#ff3e00">
+      <animate attributeName="width" from="0" to="59.10424796314663" dur="0.8s" fill="freeze" />
     </rect>
-    <text x="370" y="65" class="pct">30.8%</text>
+    <text x="370" y="65" class="pct">28.1%</text>
 
     <text x="20" y="97" class="label">JavaScript</text>
     <rect x="150" y="86" width="210" height="10" rx="5" class="track" />
-    <rect x="150" y="86" width="53.55855785419045" height="10" rx="5" fill="#f1e05a">
-      <animate attributeName="width" from="0" to="53.55855785419045" dur="0.8s" fill="freeze" />
+    <rect x="150" y="86" width="49.10874340745409" height="10" rx="5" fill="#f1e05a">
+      <animate attributeName="width" from="0" to="49.10874340745409" dur="0.8s" fill="freeze" />
     </rect>
-    <text x="370" y="97" class="pct">25.5%</text>
+    <text x="370" y="97" class="pct">23.4%</text>
 
     <text x="20" y="129" class="label">Rust</text>
     <rect x="150" y="118" width="210" height="10" rx="5" class="track" />
-    <rect x="150" y="118" width="41.197739936305396" height="10" rx="5" fill="#dea584">
-      <animate attributeName="width" from="0" to="41.197739936305396" dur="0.8s" fill="freeze" />
+    <rect x="150" y="118" width="36.63050228479798" height="10" rx="5" fill="#dea584">
+      <animate attributeName="width" from="0" to="36.63050228479798" dur="0.8s" fill="freeze" />
     </rect>
-    <text x="370" y="129" class="pct">19.6%</text>
+    <text x="370" y="129" class="pct">17.4%</text>
 
     <text x="20" y="161" class="label">Swift</text>
     <rect x="150" y="150" width="210" height="10" rx="5" class="track" />
-    <rect x="150" y="150" width="40.92847127748849" height="10" rx="5" fill="#F05138">
-      <animate attributeName="width" from="0" to="40.92847127748849" dur="0.8s" fill="freeze" />
+    <rect x="150" y="150" width="36.39108511683521" height="10" rx="5" fill="#F05138">
+      <animate attributeName="width" from="0" to="36.39108511683521" dur="0.8s" fill="freeze" />
     </rect>
-    <text x="370" y="161" class="pct">19.5%</text>
+    <text x="370" y="161" class="pct">17.3%</text>
 
-    <text x="20" y="193" class="label">CSS</text>
+    <text x="20" y="193" class="label">HTML</text>
     <rect x="150" y="182" width="210" height="10" rx="5" class="track" />
-    <rect x="150" y="182" width="3.937233194164282" height="10" rx="5" fill="#563d7c">
-      <animate attributeName="width" from="0" to="3.937233194164282" dur="0.8s" fill="freeze" />
+    <rect x="150" y="182" width="21.4641708454216" height="10" rx="5" fill="#e34c26">
+      <animate attributeName="width" from="0" to="21.4641708454216" dur="0.8s" fill="freeze" />
     </rect>
-    <text x="370" y="193" class="pct">1.9%</text>
+    <text x="370" y="193" class="pct">10.2%</text>
 
-    <text x="20" y="225" class="label">PLpgSQL</text>
+    <text x="20" y="225" class="label">CSS</text>
     <rect x="150" y="214" width="210" height="10" rx="5" class="track" />
-    <rect x="150" y="214" width="2.7871860226319107" height="10" rx="5" fill="#ffd92f">
-      <animate attributeName="width" from="0" to="2.7871860226319107" dur="0.8s" fill="freeze" />
+    <rect x="150" y="214" width="3.597096962562681" height="10" rx="5" fill="#563d7c">
+      <animate attributeName="width" from="0" to="3.597096962562681" dur="0.8s" fill="freeze" />
     </rect>
-    <text x="370" y="225" class="pct">1.3%</text>
+    <text x="370" y="225" class="pct">1.7%</text>
 
-    <text x="20" y="257" class="label">HTML</text>
+    <text x="20" y="257" class="label">PLpgSQL</text>
     <rect x="150" y="246" width="210" height="10" rx="5" class="track" />
-    <rect x="150" y="246" width="2" height="10" rx="5" fill="#e34c26">
-      <animate attributeName="width" from="0" to="2" dur="0.8s" fill="freeze" />
+    <rect x="150" y="246" width="2.4781947778694375" height="10" rx="5" fill="#8da0cb">
+      <animate attributeName="width" from="0" to="2.4781947778694375" dur="0.8s" fill="freeze" />
     </rect>
-    <text x="370" y="257" class="pct">0.8%</text>
+    <text x="370" y="257" class="pct">1.2%</text>
 
     <text x="20" y="289" class="label">TypeScript</text>
     <rect x="150" y="278" width="210" height="10" rx="5" class="track" />
     <rect x="150" y="278" width="2" height="10" rx="5" fill="#3178c6">
       <animate attributeName="width" from="0" to="2" dur="0.8s" fill="freeze" />
     </rect>
-    <text x="370" y="289" class="pct">0.5%</text>
+    <text x="370" y="289" class="pct">0.4%</text>
 
     <text x="20" y="321" class="label">Other</text>
     <rect x="150" y="310" width="210" height="10" rx="5" class="track" />
